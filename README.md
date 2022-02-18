@@ -37,9 +37,9 @@
 
 ![image]( IMAGES/june_summary.PNG) ![image]( IMAGES/dec_summary.PNG)
 
-1. The mean temperature for June is 75 degrees compared to 71 degree in December
-2. The minumum temperature in the month of June is64 comapred to 56 degree in December
-3. The maximum temperture for June is 85 compared to 83 in December
+1. The mean temperature for June is 75 degrees compared to 71 degree in December.
+2. The minumum temperature in the month of June is64 comapred to 56 degree in December.
+3. The maximum temperture for June is 85 compared to 83 in December.
 
 ## Summary 
 
