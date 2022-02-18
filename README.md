@@ -9,7 +9,7 @@
 ![image]( IMAGES/june_temp.PNG)
 
 * Created DataFrame from the list of tempertures for the month of June.
-* Using the describe function, got the summary of statistics 
+* Using the describe function, got the summary of statistics. 
 
 ![image]( IMAGES/june_summary.PNG)
 
@@ -25,7 +25,7 @@
 ![image]( IMAGES/dec_temp.PNG)
 
 * Created DataFrame from the list of tempertures for the month of December.
-* Using the describe function, got the summary of statistics 
+* Using the describe function, got the summary of statistics. 
 
 ![image]( IMAGES/dec_summary.PNG)
 
@@ -41,17 +41,17 @@
 2. The minumum temperature in the month of June is64 comapred to 56 degree in December
 3. The maximum temperture for June is 85 compared to 83 in December
 
-## Sumary 
+## Summary 
 
 * Overall June is warmer compared to December. The sale of ice cream store may be higher in June. 
 
 * Created the precipitation chart for the month of June and December from the measurement table. 
 
-* The precipitation chart for June 
+* The precipitation chart for June: 
 
 ![image]( IMAGES/june_prec.PNG)
 
-* The precipitation chart for December
+* The precipitation chart for December:
 
 ![image]( IMAGES/dec_prec.PNG)
 
