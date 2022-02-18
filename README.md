@@ -1,10 +1,10 @@
 # Temperature Data for the month of JUNE & DECEMBER
 
 
-## Determine the Summary Statistics for June
+## Determine the Summary Statistics for June:
 * Wrote a query to retrieve all the temperature in the month of  June.
 * Filtered it by date from Measurement table.
-* Coverted the June temperatures to a list.
+* Converted the June temperatures to a list.
 
 ![image]( IMAGES/june_temp.PNG)
 
@@ -20,7 +20,7 @@
 ## Determine the Summary Statistics for December
 * Wrote a query to retrieve all the temperature in the month of  December.
 * Filtered it by date from Measurement table.
-* Coverted the December temperatures to a list.
+* Converted the December temperatures to a list.
 
 ![image]( IMAGES/dec_temp.PNG)
 
